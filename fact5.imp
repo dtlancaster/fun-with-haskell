@@ -1,0 +1,6 @@
+fact:=1;
+c :=1 ;
+while (! (5 < c)) {
+  c := (c+1);
+  fact := (fact * c) 
+}
